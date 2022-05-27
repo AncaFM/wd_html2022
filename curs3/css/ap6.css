@@ -1,0 +1,30 @@
+div{
+  width: 100%; 
+  max-width: 500px; 
+  max-height: 300px;
+  overflow: scroll;
+  overflow: hidden;
+  float: left;
+  border:10px solid blue;
+  /* padding: 25px 15px 20px 10px; */
+  padding-top: 25px;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  margin: 40px;
+  background-color: rgb(212, 200, 25);
+}
+div:nth-child(2n){
+    background-color: rgb(238, 52, 27,0.7);
+    background-image: url(../../curs2/img/11561_Sun.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div p{
+    color: blue;
+    text-align: center;
+}
+div span{
+    color: red;
+}
