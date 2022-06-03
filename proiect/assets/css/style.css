@@ -62,6 +62,7 @@ body {
 }
 #meniu ul li a{
     text-decoration: none;
+    font-family:'Patrick Hand', cursive;
 }
 #meniu ul li:hover, #meniu ul li.activ{
     background-color: red;
