@@ -9,7 +9,7 @@ div{
     outline-width: 10px;
     outline-color: blue;
     outline-offset: 5px;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script', cursive, Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: bold;
     font-style: italic;
